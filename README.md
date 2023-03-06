@@ -1,2 +1,2 @@
-# shanp-shot
+# snap-shot
 snap-shot
